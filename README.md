@@ -19,12 +19,12 @@ React Native Cli: `npm i react-native-cli -g`
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/SanchitB23/Album-MobileApp.git
-> cd Album-MobileApp
+> git clone https://github.com/SanchitB23/TechStack.git
+> cd TechStack
 ```
 
 #### 2. Not Familiar with Git?
-Click [here](https://github.com/SanchitB23/Blog/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/SanchitB23/TechStack/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 #### After getting the files 
   * Delete Android and Ios folder
